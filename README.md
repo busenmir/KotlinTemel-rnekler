@@ -1,0 +1,4 @@
+# KotlinTemelOrnekler
+KotlinTemelOrnekler
+KotlinTemelOrnekler
+KotlinTemelOrnekler
