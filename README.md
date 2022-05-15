@@ -3,4 +3,5 @@
 * Fibonacci
 * Faktoriyel
 * Asal Sayı Bulma 
+* Palindrom sayı
 
